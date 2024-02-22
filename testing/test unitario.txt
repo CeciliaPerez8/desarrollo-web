@@ -1,2 +1,3 @@
 Caso de prueba nº1
 Test unitario creado por desarrollo
+Caso de prueba nº2
